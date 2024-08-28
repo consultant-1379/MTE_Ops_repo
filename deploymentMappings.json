@@ -1,0 +1,89 @@
+[
+  {
+    "deployment_name": "DUMMY_DEPLOYMENT",
+    "dmt_id": "ABC"
+  },
+  {
+    "deployment_name": "ieatenmc5b01",
+    "dmt_id": "528",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc5b02",
+    "dmt_id": "530",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc12a24",
+    "dmt_id": "1101",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc13a02",
+    "dmt_id": "1104",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc13a03",
+    "dmt_id": "1105",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc7b12",
+    "dmt_id": "1113",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc7b17",
+    "dmt_id": "1124",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc7b22",
+    "dmt_id": "1127",
+    "label": "MT"
+  },
+    {
+    "deployment_name": "ieatenmc7b25",
+    "dmt_id": "1130",
+    "label": "MT"
+  },
+    {
+    "deployment_name": "ieatenmc13a28",
+    "dmt_id": "1135",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc7b13",
+    "area" : "DROPBACK",
+    "dmt_id": "1116",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc5a04",
+    "area" : "PLM",
+    "dmt_id": "1116",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc12a10",
+    "dmt_id": "1100",
+    "label": "BB"
+  },
+  {
+    "deployment_name": "ieatenmc4b13",
+    "area" : "CDL",
+    "dmt_id": "744",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc17a08",
+    "dmt_id": "1144",
+    "label": "MT"
+  },
+  {
+    "deployment_name": "ieatenmc17a09",
+    "dmt_id": "1147",
+    "label": "MT"
+  }
+]
